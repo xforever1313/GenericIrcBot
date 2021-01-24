@@ -58,3 +58,6 @@ DistPackages/
 /Chaskis/RegressionTests/Environments/TestEnvironment
 
 /ReleaseNotes.md
+
+# Pre-compiled templates
+*.g.cs

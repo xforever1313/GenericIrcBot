@@ -107,6 +107,8 @@ namespace Chaskis.Cli
             Console.WriteLine();
             Console.WriteLine( "Released under the Boost Software License:" );
             Console.WriteLine( "http://www.boost.org/LICENSE_1_0.txt" );
+            Console.WriteLine();
+            Console.WriteLine( new BuildInfo() );
         }
 
         public abstract void LogInfo( string str );

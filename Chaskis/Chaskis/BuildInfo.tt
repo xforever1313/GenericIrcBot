@@ -1,0 +1,4 @@
+﻿<#@ include file="../../SethCS/SethCS/T4Includes/GitBuildInfo.t4" once="true" #>
+<#
+GenerateGitBuildInfo( "Chaskis.Cli", Path.Combine( "..", ".." ) );
+#>
